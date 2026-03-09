@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/wateryfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wateryfox" height="30" width="40" /></a>
 <a href="https://instagram.com/marquisverinojune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marquisverinojune" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/3onhfrjlnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3onhfrjlnh" height="30" width="40" /></a>
-<a href="https://discord.gg/1106890331900891166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1106890331900891166" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1106890331900891166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1106890331900891166" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
