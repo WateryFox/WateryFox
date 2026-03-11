@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marquis Verino</h1>
-<h3 align="center">An aspiring computer science student from Surabaya, Indonesia</h3>
+<h3 align="center">An aspiring computer student from Surabaya, Indonesia</h3>
 
 - 🔭 I’m currently working on [Surabaya Harapan (a Python Flask web app) and building out my CS university portfolio.](https://github.com/WateryFox/Surabaya-Care-Portal)
 
